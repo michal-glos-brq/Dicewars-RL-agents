@@ -1,0 +1,2 @@
+python3 ./scripts/dicewars-ai-only.py -r -b 11 -o 22 -s 33 -c 44 -n 10 -l ../logs --ai dt.rand ai.ferda
+python3 ./scripts/dicewars-human.py --ai ai.ferda
